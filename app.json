@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-webrtc-openai-realtime",
-    "slug": "expo-webrtc-openai-realtime",
+    "slug": "openai-realtime-webrtc-expo-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -50,6 +50,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "10c12bca-90bd-41c9-a722-e3b38c99718b"
+      }
+    },
+    "owner": "andokivilaid"
   }
 }
